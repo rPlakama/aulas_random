@@ -17,6 +17,7 @@
 	nodejs_latest
 	nodePackages.yarn
 	nodePackages.live-server
+	vscode-langservers-extracted
 
         ];
 
