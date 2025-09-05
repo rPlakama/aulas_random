@@ -1,0 +1,21 @@
+body {
+	background-color: black;
+	color: white;
+	display: flex;
+	justify-content: center;
+	overflow: hidden;
+	font-size: 100px;
+}
+
+.contato {
+	background-color: white;
+	border-radius: 15px;
+}
+
+.click:hover {
+	color: red
+}
+
+.menu:hover {
+	color: blue;
+}
